@@ -1,0 +1,18 @@
+    private func addSubscribers() {
+        //dataService.$basicPublisher
+       // dataService.currentValuePublisher
+        dataService.passThroughPublisher2
+        
+                            width: geometry[$0].width,
+                            height: geometry[$0].height
+                        )
+                        .offset(
+                            x: geometry[$0].minX,
+                            y: geometry[$0].minY
+                        )
+                }
+            }
+        }
+        
+    }
+}
